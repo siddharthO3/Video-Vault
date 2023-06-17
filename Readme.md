@@ -6,6 +6,9 @@ This application uses ***Dart and Flutter*** for Frontend, and uses an *ML model
 
 The most useful part of the application is that it works ***offline***!!
 
+## Demo Video
+Refer to the Demo Video in the folder.
+
 ## How to install
 
 1. Create a venv with in your local machine. The Python version of the venv <b>must be less</b> than 3.9 since some of the libraries might not work. We have used version <i>3.8.10</i> for testing purposes.
