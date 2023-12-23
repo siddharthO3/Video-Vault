@@ -7,7 +7,7 @@ This application uses ***Dart and Flutter*** for Frontend, and uses an *ML model
 The most useful part of the application is that it works ***offline***!!
 
 ## Demo Video
-Refer to the Demo Video in the folder.
+[Video Demo link](https://github.com/siddharthO3/Video-Vault/blob/master/Video%20Demo/Video%20vault.mkv)
 
 ## How to install
 
